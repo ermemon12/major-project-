@@ -22,7 +22,8 @@ healthcare_ai_backend/
 ├── preprocess.py # Preprocessing utilities
 
 ├── services/
-│ └── database.py # Database interactions and utilities
+
+│   database.py # Database interactions and utilities
 
 └── README.md # Project documentation
 
