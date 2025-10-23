@@ -4,7 +4,7 @@ from datetime import datetime
 # -------------------------
 # MongoDB connection
 # -------------------------
-MONGO_URI = "mongodb+srv://healthuser:eram1205@cluster0.ink2ock.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = "your-uri"
 client = MongoClient(MONGO_URI)
 
 db = client["healthcare_ai"]
